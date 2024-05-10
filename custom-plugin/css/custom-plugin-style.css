@@ -1,0 +1,13 @@
+/* Custom styles for the plugin */
+#custom-plugin-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+}
+
+#custom-plugin-table th,
+#custom-plugin-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
